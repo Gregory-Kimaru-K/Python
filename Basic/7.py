@@ -1,1 +1,2 @@
-def IsPrime()
+def IsPrime():
+    

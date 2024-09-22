@@ -17,6 +17,7 @@ def custom_range(start, stop=None, step=1):
 
     return results
 
+print(custom_range(0))
 print(custom_range(10))
 print(custom_range(1, 11))
 print(custom_range(1, 201, 10))

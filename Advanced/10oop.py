@@ -8,7 +8,7 @@ class Student:
         Student.total_gpa += gpa
 
     def get_info(self):
-        return f"{self.name} | {self.gpa}"
+        return f"{self.name} : {self.gpa}"
     
     @classmethod
     def get_count(cls):
